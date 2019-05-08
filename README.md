@@ -8,22 +8,21 @@ A curated list of awesome Quarkus.io projects, libraries, libs.
 - [Examples](#Examples)
 - [Trainning stuff](#Trainning)
 - [Websites](#Websites)
+- [Contributing](#Contributing)
 
-## Projects
+
+### Projects
 
 ### Examples
+- [cheatsheet](https://t.co/qYuXt0k7FK) - Awesome Quarkus cheatsheet by @alexsotob 
 
 ### Trainning
 - [PanacheKata](https://www.katacoda.com/openshift/courses/middleware/middleware-quarkus/panache) - Quarkus Data with Panache
 
-
-
 ## Websites
-
-*Sites to read.*
-
 - [quarkus](https://quarkus.io/)
 
-## Contributing
 
-Contributions are very welcome!
+## Contributing
+Contributions are welcome!
+Git clone an push.
