@@ -16,6 +16,8 @@ A curated list of awesome Quarkus.io projects, libraries, libs.
 ### Examples
 - [cheatsheet](https://t.co/qYuXt0k7FK) - Awesome Quarkus cheatsheet by @alexsotob 
 - [Consul](https://medium.com/@yazidaqel/quarkus-configuration-using-consul-d077dc6d5d3) - Quarkus configuration using Consul
+- [Cobaeldung quarkus](https://www.baeldung.com/quarkus-io) - Guide to QuarkusIO
+
 
 ### Trainning
 - [PanacheKata](https://www.katacoda.com/openshift/courses/middleware/middleware-quarkus/panache) - Quarkus Data with Panache
